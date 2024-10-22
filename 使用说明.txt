@@ -1,0 +1,14 @@
+      使用前要在cmd中输入pip install requests和pip install moviepy安装两个必要的模块
+
+
+
+
+
+
+
+
+
+
+
+
+本人是菜逼大学生，基础不好，代码有一堆漏洞，请各位大佬多多指正
